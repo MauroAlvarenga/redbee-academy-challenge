@@ -1,5 +1,11 @@
 # Challenge Redbee Academy
 
+## My approach...
+
+This is my take on this challenge, i'm not registered to the Academy but wanted to test my skills.
+
+Here you have the info: 
+
 ### About this
 This repository aims to identify how much you know about programming.
 
@@ -13,16 +19,3 @@ There are four challenges:
 * CompareArrayNumbers: That receives two lists of numbers and returns a list with the max of both
 
 For each challenge we created a set of tests to help you. Feel free to add more tests if you want.
-
-Fork the repository and share the solution with:
-
-* Caro (carolina.bergalli@redb.ee) 
-* Mapsi (maxi.britez@redb.ee)
-* Dal (dalma.diaz@redb.ee)
-
-
-![Caro](https://lh3.googleusercontent.com/a-/AOh14Gh6gU2tOvjdYpfEE8MhGrsKYGZKBXNpGskuAC4g=s48-c-k-no)
-![Mapsi](https://lh3.googleusercontent.com/a-/AOh14GixW8eJJarUkQQ2Jf8FoV1CkLJnl-JYJOcUtcJE1g=s48-c-k-no)
-![Dal](https://lh3.googleusercontent.com/a-/AOh14Gg55nS_Wg0FYhiVA4zA_4FQ65gW5vRX_K_M3c_N=s48-c-k-no)
-
-
