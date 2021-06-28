@@ -38,5 +38,13 @@ public class CompareNumbersTests {
     Integer result = CompareNumbers.max(null, 2, null);
     assertNotNull(result, "The result cannot be null");
     assertEquals(2, result);
+
+    Integer anotherResult = CompareNumbers.max(3, 2, null);
+    assertNotNull(result, "The result cannot be null");
+    assertEquals(3, anotherResult);
+
+    Integer finalResult = CompareNumbers.max(null, 2, 3);
+    assertNotNull(finalResult, "The result cannot be null");
+    assertEquals(3, finalResult);
   }
 }
